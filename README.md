@@ -35,7 +35,7 @@ Tools
 Git • GitHub • Streamlit • FastAPI • Docker • VS Code • AWS • Apache Spark 
 
 
-📫 Connect With Me
+# 📫 Connect With Me
 
 💼 LinkedIn: [https://www.linkedin.com/in/purvesh-lalit-bhave/]
 
