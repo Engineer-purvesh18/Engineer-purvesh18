@@ -38,6 +38,7 @@ Git • GitHub • Streamlit • FastAPI • Docker • VS Code • AWS • Apac
 📫 Connect With Me
 
 💼 LinkedIn: [https://www.linkedin.com/in/purvesh-lalit-bhave/]
+
 📧 Email: [purvesh18.bhave@gmail.com]
 
 
