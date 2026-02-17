@@ -4,14 +4,14 @@ Aspiring Machine Learning & Generative AI Engineer
 Open to Entry-Level Opportunities in AI/ML, GenAI & Data Analytics
 
 
-# About Me
+# 🧠 About Me
 I build end-to-end AI solutions - from data preprocessing and model development to deploying intelligent
 application.
 
 Currently Working across:
 Data Analytics • Machine Learning • Deep Learning • Generative AI (LLMs, RAG) • Agentic AI Systems
 
-# Tech Stack
+# 🛠️ Tech Stack
 
 Languages
 Python • SQL • JavaScript (Basics)
