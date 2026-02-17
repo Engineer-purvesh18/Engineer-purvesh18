@@ -10,22 +10,23 @@
 
 I am a motivated and self-driven guy actively building hands-on projects in:
 
-🔹 Machine Learning (ML)
+ - Data Analytics
 
-🔹 Deep Learning (DL)
+ - Machine Learning (ML)
 
-🔹 Generative AI (LLMs, RAG)
+ - Deep Learning (DL)
 
-🔹 Agentic AI Systems
+ - Generative AI (LLMs, RAG)
 
-🔹 Data Analytics
+ - Agentic AI Systems
+
 
 I focus on developing end-to-end AI solutions — from data preprocessing and model building to deployment of AI-powered applications.
 
 I am currently looking for an opportunity to contribute to innovative AI projects while continuously learning and improving my skills.
 
-# 🛠️ Technical Skills
-# 👨‍💻 Programming
+
+# 👨‍💻 Programming Languages
 
 Python
 
@@ -33,9 +34,15 @@ SQL
 
 Basic JavaScript
 
-# 🤖 Machine Learning
+# 📊 Data Analytics
 
-Supervised & Unsupervised Learning
+Pandas & NumPy
+
+Data Cleaning & EDA
+
+Data Visualization (Matplotlib, Seaborn, Power BI)
+
+# 🤖 Machine Learning
 
 Scikit-learn
 
@@ -75,13 +82,6 @@ Multi-step Task Automation
 
 Memory-based AI Workflows
 
-# 📊 Data Analytics
-
-Pandas & NumPy
-
-Data Cleaning & EDA
-
-Data Visualization (Matplotlib, Seaborn, Power BI)
 
 # ⚙️ Tools & Deployment
 
@@ -93,47 +93,16 @@ FastAPI (Basics)
 
 Docker (Basics)
 
-# 📌 What You’ll Find on My GitHub
+Git
 
-✔️ End-to-End Machine Learning Projects
-✔️ Deep Learning Implementations
-✔️ LLM-powered Applications
-✔️ RAG-based Systems
-✔️ AI Agent Projects
-✔️ Data Analysis & Business Insights Projects
+Vscode 
 
-Each project includes:
 
-Clear Problem Statement
-
-Data Preprocessing
-
-Model Development
-
-Evaluation Metrics
-
-Deployment (where applicable)
-
-🚀 Currently Improving
-
-Advanced Agentic AI Architectures
-
-LLM Fine-Tuning Techniques
-
-MLOps & Model Deployment
-
-Scalable AI Application Development
-
-💼 Career Objective
-
-To begin my professional journey as an AI/ML Engineer where I can apply my knowledge in Machine Learning, Deep Learning, and Generative AI to build impactful and scalable AI solutions.
 
 📫 Connect With Me
 
-💼 LinkedIn: [Your LinkedIn Link]
+💼 LinkedIn: [https://www.linkedin.com/in/purvesh-lalit-bhave/]
 
-📧 Email: [Your Email]
-
-🌐 Portfolio: [If Available]
+📧 Email: [purvesh18.bhave@gmail.com]
 
 ⭐ If you find my projects interesting, feel free to explore and connect!
