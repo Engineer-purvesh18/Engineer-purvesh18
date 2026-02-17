@@ -1,4 +1,4 @@
-👋 Hi, I'm Purvesh 
+# 👋 Hi, I'm Purvesh 
 
 🎯 Aspiring AI/ML Engineer | Generative AI Enthusiast | Data-Driven Problem Solver
 💡 Building intelligent systems with ML, DL, GenAI & Agentic AI
