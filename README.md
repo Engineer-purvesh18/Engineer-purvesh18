@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Purvesh 
 
 🎯 Aspiring Machine Learning & Generative AI Engineer
+
 💡 Passionate about building intelligent systems that learn, reason, and solve real-world problems
+
 📍 Open to Entry-Level Opportunities in AI/ML, GenAI & Data Analytics
 
 # 🧠 About Me
