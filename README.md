@@ -1,12 +1,12 @@
-👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Purvesh 
 
 🎯 Aspiring Machine Learning & Generative AI Engineer
 💡 Passionate about building intelligent systems that learn, reason, and solve real-world problems
 📍 Open to Entry-Level Opportunities in AI/ML, GenAI & Data Analytics
 
-🧠 About Me
+# 🧠 About Me
 
-I am a motivated and self-driven fresher actively building hands-on projects in:
+I am a motivated and self-driven guy actively building hands-on projects in:
 
 🔹 Machine Learning (ML)
 
@@ -22,8 +22,8 @@ I focus on developing end-to-end AI solutions — from data preprocessing and mo
 
 I am currently looking for an opportunity to contribute to innovative AI projects while continuously learning and improving my skills.
 
-🛠️ Technical Skills
-👨‍💻 Programming
+# 🛠️ Technical Skills
+# 👨‍💻 Programming
 
 Python
 
@@ -31,7 +31,7 @@ SQL
 
 Basic JavaScript
 
-🤖 Machine Learning
+# 🤖 Machine Learning
 
 Supervised & Unsupervised Learning
 
@@ -43,7 +43,7 @@ Feature Engineering
 
 Model Evaluation & Optimization
 
-🧠 Deep Learning
+# 🧠 Deep Learning
 
 TensorFlow / Keras
 
@@ -53,7 +53,7 @@ Artificial Neural Networks (ANN)
 
 Convolutional Neural Networks (CNN)
 
-✨ Generative AI
+# ✨ Generative AI
 
 OpenAI APIs
 
@@ -65,7 +65,7 @@ Retrieval-Augmented Generation (RAG)
 
 Prompt Engineering
 
-🤖 Agentic AI
+# 🤖 Agentic AI
 
 AI Agents with Tools
 
@@ -73,7 +73,7 @@ Multi-step Task Automation
 
 Memory-based AI Workflows
 
-📊 Data Analytics
+# 📊 Data Analytics
 
 Pandas & NumPy
 
@@ -81,7 +81,7 @@ Data Cleaning & EDA
 
 Data Visualization (Matplotlib, Seaborn, Power BI)
 
-⚙️ Tools & Deployment
+# ⚙️ Tools & Deployment
 
 Git & GitHub
 
@@ -91,7 +91,7 @@ FastAPI (Basics)
 
 Docker (Basics)
 
-📌 What You’ll Find on My GitHub
+# 📌 What You’ll Find on My GitHub
 
 ✔️ End-to-End Machine Learning Projects
 ✔️ Deep Learning Implementations
