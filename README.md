@@ -1,108 +1,43 @@
-# 👋 Hi, I'm Purvesh 
+# 👋 Hi, I'm Purvesh
 
-🎯 Aspiring Machine Learning & Generative AI Engineer
-
-💡 Passionate about building intelligent systems that learn, reason, and solve real-world problems
-
-📍 Open to Entry-Level Opportunities in AI/ML, GenAI & Data Analytics
-
-# 🧠 About Me
-
-I am a motivated and self-driven guy actively building hands-on projects in:
-
- - Data Analytics
-
- - Machine Learning (ML)
-
- - Deep Learning (DL)
-
- - Generative AI (LLMs, RAG)
-
- - Agentic AI Systems
+Aspiring Machine Learning & Generative AI Engineer
+Open to Entry-Level Opportunities in AI/ML, GenAI & Data Analytics
 
 
-I focus on developing end-to-end AI solutions — from data preprocessing and model building to deployment of AI-powered applications.
+# About Me
+I build end-to-end AI solutions - from data preprocessing and model development to deploying intelligent
+application.
 
-I am currently looking for an opportunity to contribute to innovative AI projects while continuously learning and improving my skills.
+Currently Working across:
+Data Analytics • Machine Learning • Deep Learning • Generative AI (LLMs, RAG) • Agentic AI Systems
 
+# Tech Stack
 
-# 👨‍💻 Programming Languages
+Languages
+Python • SQL • JavaScript (Basics)
 
-Python
+Data Analytics
+Pandas • NumPy • EDA • Matplotlib • Seaborn • Power BI
 
-SQL
+Machine Learning
+Scikit-learn • XGBoost • Feature Engineering • Model Optimization
 
-Basic JavaScript
+Deep Learning
+TensorFlow • Keras • PyTorch • ANN • CNN
 
-# 📊 Data Analytics
+Generative AI
+OpenAI APIs • LangChain • Hugging Face • RAG • Prompt Engineering
 
-Pandas & NumPy
+Agentic AI
+Tool-based AI Agents • Multi-step Automation • Memory Workflows
 
-Data Cleaning & EDA
-
-Data Visualization (Matplotlib, Seaborn, Power BI)
-
-# 🤖 Machine Learning
-
-Scikit-learn
-
-XGBoost
-
-Feature Engineering
-
-Model Evaluation & Optimization
-
-# 🧠 Deep Learning
-
-TensorFlow / Keras
-
-PyTorch (Fundamentals)
-
-Artificial Neural Networks (ANN)
-
-Convolutional Neural Networks (CNN)
-
-# ✨ Generative AI
-
-OpenAI APIs
-
-LangChain
-
-Hugging Face
-
-Retrieval-Augmented Generation (RAG)
-
-Prompt Engineering
-
-# 🤖 Agentic AI
-
-AI Agents with Tools
-
-Multi-step Task Automation
-
-Memory-based AI Workflows
-
-
-# ⚙️ Tools & Deployment
-
-Git & GitHub
-
-Streamlit
-
-FastAPI (Basics)
-
-Docker (Basics)
-
-Git
-
-Vscode 
-
+Tools 
+Git • GitHub • Streamlit • FastAPI • Docker • VS Code • AWS • Apache Spark 
 
 
 📫 Connect With Me
 
 💼 LinkedIn: [https://www.linkedin.com/in/purvesh-lalit-bhave/]
-
 📧 Email: [purvesh18.bhave@gmail.com]
 
-⭐ If you find my projects interesting, feel free to explore and connect!
+
